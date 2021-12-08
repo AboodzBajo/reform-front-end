@@ -1,0 +1,11 @@
+{
+    "properties": {
+        "district_id": 10500013001,
+        "name_en": "Al Khalidiyah Ash Shamaliyah Dist.",
+        "name_ar": "حي الخالدية الشمالية",
+        "economic_impact_index": 10.365008395016455,
+        "education_impact_index": 0.0,
+        "health_impact_index": 1.3059803191495498,
+        "social_impact_index": 12.278643176610538
+    }
+}
